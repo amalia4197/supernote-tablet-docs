@@ -1,3 +1,9 @@
-# GitHub Pages and Jekyll configuration
+# Site settings
+title: Supernote Docs (Unofficial)
+author:
+  name: Rescue Ferret
+  email: rescueferret88@gmail.com
+description: "Documentation about Supernote X and X2 series tablets. Not affiliated with Ratta Supernote."
 
-theme: Minimal
+# Build settings
+remote_theme: jekyll/minima
